@@ -23,9 +23,9 @@ data/extended/transportaton.csv - optional data related to transporation
 data/prediction_mapping.csv - mapping used to generate submissions
 data/sample_submission.csv - demo submission file for Kaggle, predicting all zeros
 
-Dataset definitions and explanation.docx - a documents that gives more details about the dataset and column names  
-Machine learning task for TDT4173.docx - brief introduction to the task
-kaggle_metric.ipynb - the score function we use in the Kaggle competition
+Dataset definitions and explanation.docx - a documents that gives more details about the dataset and column names.  
+Machine learning task for TDT4173.docx - brief introduction to the task.  
+kaggle_metric.ipynb - the score function we use in the Kaggle competition. 
 
 
 ## Project Structure
