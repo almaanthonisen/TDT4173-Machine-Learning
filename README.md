@@ -7,7 +7,7 @@ We use Kaggle for submissions, and this repository contains code, data processin
 
 ```bash
 conda env create -f environment.yml
-conda activate ML-project
+conda activate ml-project
 ```
 
 ## Description of the files given to students
@@ -27,14 +27,13 @@ Dataset definitions and explanation.docx - a documents that gives more details a
 Machine learning task for TDT4173.docx - brief introduction to the task
 kaggle_metric.ipynb - the score function we use in the Kaggle competition
 
-
 ## Project Structure
 
 ```bash
 ML-project/
 │
-├── data/                  
-│   ├── extended           
+├── data/
+│   ├── extended
 │   └── kernel
 │
 ├── notebooks/
@@ -65,5 +64,5 @@ ML-project/
 │
 ├── environment.yml          # conda environment spec
 ├── README.md                # setup + usage guide
-└── .gitignore               
+└── .gitignore
 ```
